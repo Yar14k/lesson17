@@ -1,0 +1,50 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}.card{
+    width: 300px;
+    border: 1px solid grey;
+    margin-left: 50px;
+    height: auto;
+
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.brend{
+    width: auto;
+    background-color: yellow;
+    float: right;
+    color: black;
+    list-style: none;
+}
+.price{
+    width: 50px;
+    background-color: yellow;
+    border-radius: 10px;
+    list-style: none;
+    float: left;
+    color: black;
+}
+.text{
+    color: grey;
+    float: right;
+}
+.button{
+    width: 150px;
+    background-color: yellow;
+    border-radius: 20px;
+    color: black;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
