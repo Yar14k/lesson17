@@ -18,13 +18,13 @@ img{
     background-color: yellow;
     float: right;
     color: black;
-    list-style: none;
+    text-decoration: none;
 }
 .price{
     width: 50px;
     background-color: yellow;
     border-radius: 10px;
-    list-style: none;
+    text-decoration: none;
     float: left;
     color: black;
 }
@@ -37,7 +37,7 @@ img{
     background-color: yellow;
     border-radius: 20px;
     color: black;
-    list-style: none;
+    text-decoration: none;
     display: flex;
     justify-content: center;
     align-items: center;
